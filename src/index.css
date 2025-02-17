@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+    background-color: #0d0d0d;
+    font-family: "Bai Jamjuree", serif;
+    color: white;
+}
+
