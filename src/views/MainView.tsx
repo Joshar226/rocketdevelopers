@@ -16,8 +16,8 @@ export default function MainView() {
       </div>
 
       <div className="mb-10">
-        <h3 className="text-8xl font-bold text-center mb-11">Principales Servicios</h3>
-        <div className=" flex justify-center gap-6 max-w-[1350px] mx-auto cursor-default">
+        <h3 className="text-5xl xl:text-8xl font-bold text-center mb-11">Principales Servicios</h3>
+        <div className=" flex flex-col xl:flex-row justify-center gap-6 max-w-[1350px] mx-auto cursor-default">
           {services.map( service => (
             <ServiceCard key={service.name} service={service} />
           ))}

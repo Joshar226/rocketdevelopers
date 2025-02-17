@@ -16,13 +16,13 @@ export default function Slider() {
   return (
     <>
       <h2 
-        className="text-center text-6xl font-bold mb-5"
+        className="text-center text-5xl xl:text-6xl font-bold mb-5"
       >Tecnologías</h2>
 
-      <div className="flex items-center gap-6 justify-center">
+      <div className=" grid grid-cols-3 md:grid-cols-6 lg:flex items-center justify-center gap-6">
         {images.map( image => (
           <div 
-            className="w-[200px]"
+            className="max-w-[150px] lg:w-[150px]"
             key={image} 
           >
             <img 
