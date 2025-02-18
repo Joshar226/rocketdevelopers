@@ -11,7 +11,7 @@ const services = [
         description: "Creamos sitios web modernos y funcionales, adaptados a las necesidades de tu negocio. Nos enfocamos en ofrecer un diseño atractivo, responsivo y optimizado para brindar la mejor experiencia de usuario"
     },
     {
-        name: "Desarrollo frontend/backend",
+        name: "Desarrollo frontend / backend",
         icon: <IoCodeSlashSharp 
         size={60}
         />,
