@@ -9,7 +9,7 @@ export default function MainView() {
       <div className="mb-36">
           <h3 className="text-4xl mb-3"><span className="text-cyan-300 font-bold">&gt; </span>Sobre la Agencia</h3>
           <div className="text-2xl border-l-4 border-l-cyan-300 pl-3 max-w-[800px]" >
-            <p>En JDevelopers podemos crear tu propia página web con lo que desees, no solo para tu público o clientes, sino que podemos darte inclusive un sistema de organización. <br/><br/> </p>
+            <p>En RocketDevelopers podemos crear tu propia página web con lo que desees, no solo para tu público o clientes, sino que podemos darte inclusive un sistema de organización. <br/><br/> </p>
             <p>Colaboramos con cada cliente para comprender a fondo sus necesidades y objetivos, desarrollando con creatividad y orientación, así te hacemos parte del equipo. <br/><br/> </p>
             <p>Nuestro compromiso con cada cliente es impulsar tu negocio hacia el éxito con tu idea.</p>
           </div>
